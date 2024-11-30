@@ -31,7 +31,7 @@ Chroma DB
 LLaMA 3.1 Model  
 ### Usage  
 Prepare the Database: Run the data_preparation.py script to upload and process the PDF file.  
-python data_preparation.py  
+python DB_creation.py  
 Query the Model: Use the model_querying.py script to ask questions based on the uploaded PDF.  
 python model_querying.py  
 #### Example Query
