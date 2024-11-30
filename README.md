@@ -14,8 +14,8 @@ Queries the Chroma DB to retrieve relevant information for answering user questi
 Generates responses based on the retrieved context using LLaMA 3.1.  
 ### Project Structure  
 📁 project-root/  
-├── 📄 data_preparation.py     # Handles PDF extraction, embedding, and Chroma DB setup.  
-├── 📄 model_querying.py       # Implements the RAG model to answer user questions.  
+├── 📄 DB_creation.py     # Handles PDF extraction, embedding, and Chroma DB setup.  
+├── 📄 RAG.py       # Implements the RAG model to answer user questions.  
 └── 📄 README.md               # Project documentation (this file).  
 ## Installation
 Clone the repository: 
