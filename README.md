@@ -19,7 +19,7 @@ Generates responses based on the retrieved context using LLaMA 3.1.
 └── 📄 README.md               # Project documentation (this file).  
 ## Installation
 Clone the repository: 
-git clone https://github.com/your-username/rag-langchain-chroma-llama.git  
+git clone https://github.com/FedyBd/PDF-RAG.git  
 cd PDF_RAG   
 ### Install the required dependencies:  
 
